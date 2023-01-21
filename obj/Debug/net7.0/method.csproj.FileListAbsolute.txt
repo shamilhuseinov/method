@@ -1,0 +1,15 @@
+/Users/samil/Projects/method/method/bin/Debug/net7.0/method
+/Users/samil/Projects/method/method/bin/Debug/net7.0/method.deps.json
+/Users/samil/Projects/method/method/bin/Debug/net7.0/method.runtimeconfig.json
+/Users/samil/Projects/method/method/bin/Debug/net7.0/method.dll
+/Users/samil/Projects/method/method/bin/Debug/net7.0/method.pdb
+/Users/samil/Projects/method/method/obj/Debug/net7.0/method.csproj.AssemblyReference.cache
+/Users/samil/Projects/method/method/obj/Debug/net7.0/method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/method/method/obj/Debug/net7.0/method.AssemblyInfoInputs.cache
+/Users/samil/Projects/method/method/obj/Debug/net7.0/method.AssemblyInfo.cs
+/Users/samil/Projects/method/method/obj/Debug/net7.0/method.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/method/method/obj/Debug/net7.0/method.dll
+/Users/samil/Projects/method/method/obj/Debug/net7.0/refint/method.dll
+/Users/samil/Projects/method/method/obj/Debug/net7.0/method.pdb
+/Users/samil/Projects/method/method/obj/Debug/net7.0/method.genruntimeconfig.cache
+/Users/samil/Projects/method/method/obj/Debug/net7.0/ref/method.dll
